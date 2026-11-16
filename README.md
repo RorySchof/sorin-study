@@ -49,4 +49,4 @@ The application is built with React Native and Expo. MobX-State-Tree manages app
 - **Bundle ID:** `com.sorin.study`
 - **App Store:** [Sorin Study on the App Store](https://apps.apple.com/us/app/sorin-study/id6772776460)
 
-This repository is a portfolio overview of the published application. It describes the product, the architecture, and the technology used to build it. The application source code is private and is not included here.
+This public repository, [RorySchof/sorin-study](https://github.com/RorySchof/sorin-study), is a project overview of the published application. It describes the product, the architecture, and the technology used to build it. The application source code is maintained privately and is not included here.
